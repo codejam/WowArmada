@@ -1,0 +1,79 @@
+.waa_main {
+/*  width: 515px;*/
+	padding-top: 20px;
+}
+ 
+.waa_main > img { border: 0px; }
+
+.waa_stat_name {
+	color: #00FF00;
+}
+
+.waa_stat_block {
+	color: #ffd517;
+}
+
+.waa_stat_value {
+	color: white;
+}
+
+.waa_stat_block {
+	text-align: center;
+	float: left;
+	height: 130px;
+	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+  	font-size: small;
+ 	border: solid 2px #808080;
+	-webkit-border-radius: 8px;
+  	-moz-border-radius: 8px;
+}
+
+.waa_stat_block table {
+	width: 100%;
+	text-align: left;
+}
+
+.waa_stat_block#base{
+	width: 110px;
+}
+
+.waa_stat_block#melee {
+	width: 150px;
+}
+
+.waa_stat_block#defense {
+	width: 110px;
+}
+
+.waa_stat_block#spell {
+	width: 200px;
+}
+
+.waa_stat_block#ranged {
+	width: 150px;
+}
+
+
+
+.waa_stat_block .waa_stat_block_title {
+	float: left;
+	margin-top: -18px;
+	font-size: medium;
+	font-weith: bold;
+	color: #808080;
+}
+
+.waa_stat_block .waa_stat_block_description {
+	clear: left;	
+}
+
+.waa_footer {
+	clear:both;
+	text-align: right;
+	font-size: x-small;
+	color: #CCCCCC;
+}
+

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This data is from http://armory-musings.appspot.com/ and published under a Creative Commons Attribution 3.0 License. -->
+<permanentenchants>
+  <permanentenchant id="15" name="Reinforced (+8 Armor)" spellId="0" itemId="2304"/>
+  <permanentenchant id="16" name="Reinforced (+16 Armor)" spellId="0" itemId="2313"/>
+  <permanentenchant id="17" name="Reinforced (+24 Armor)" spellId="0" itemId="4265"/>
+  <permanentenchant id="18" name="+12 Agility" spellId="34004" itemId="0"/>
+  <permanentenchant id="24" name="+5 Mana" spellId="7443" itemId="0"/>
+  <permanentenchant id="30" name="Scope (+1 Damage)" spellId="3974" itemId="0"/>
+  <permanentenchant id="32" name="Scope (+2 Damage)" spellId="7745" itemId="0"/>
+  <permanentenchant id="33" name="Scope (+3 Damage)" spellId="3976" itemId="0"/>
+  <permanentenchant id="34" name="Counterweight (+20 Haste Rating)" spellId="0" itemId="6043"/>
+  <permanentenchant id="36" name="Enchant: Fiery Blaze" spellId="6296" itemId="0"/>
+  <permanentenchant id="37" name="Counterweight (+20 Haste Rating)" spellId="0" itemId="6043"/>
+  <permanentenchant id="41" name="+5 Health" spellId="7420" itemId="0"/>
+  <permanentenchant id="43" name="+24 Intellect" spellId="0" itemId="0"/>
+  <permanentenchant id="44" name="+11 Intellect" spellId="0" itemId="0"/>
+  <permanentenchant id="63" name="Absorption (25)" spellId="13538" itemId="0"/>
+  <permanentenchant id="65" name="+1 All Resistances" spellId="7454" itemId="0"/>
+  <permanentenchant id="66" name="+1 Stamina" spellId="7457" itemId="0"/>
+  <permanentenchant id="241" name="+2 Weapon Damage" spellId="7745" itemId="0"/>
+  <permanentenchant id="242" name="+15 Health" spellId="7748" itemId="0"/>
+  <permanentenchant id="243" name="+3 Intellect" spellId="7793" itemId="0"/>
+  <permanentenchant id="246" name="+20 Mana" spellId="7776" itemId="0"/>
+  <permanentenchant id="247" name="+1 Agility" spellId="7867" itemId="0"/>
+  <permanentenchant id="248" name="+2 Intellect" spellId="0" itemId="0"/>
+  <permanentenchant id="249" name="+2 Beastslaying" spellId="7786" itemId="0"/>
+  <permanentenchant id="250" name="+1  Weapon Damage" spellId="3974" itemId="0"/>
+  <permanentenchant id="254" name="+25 Health" spellId="7857" itemId="0"/>
+  <permanentenchant id="255" name="+3 Spirit" spellId="13485" itemId="0"/>
+  <permanentenchant id="256" name="+5 Fire Resistance" spellId="7861" itemId="0"/>
+  <permanentenchant id="368" name="+12 Agility" spellId="34004" itemId="0"/>
+  <permanentenchant id="369" name="+12 Intellect" spellId="34001" itemId="0"/>
+  <permanentenchant id="463" name="Mithril Spike (16-20)" spellId="9782" itemId="0"/>
+  <permanentenchant id="464" name="+4% Mount Speed" spellId="7215" itemId="0"/>
+  <permanentenchant id="663" name="Scope (+5 Damage)" spellId="20031" itemId="0"/>
+  <permanentenchant id="664" name="Scope (+7 Damage)" spellId="13937" itemId="0"/>
+  <permanentenchant id="684" name="+15 Strength" spellId="33995" itemId="0"/>
+  <permanentenchant id="723" name="+3 Intellect" spellId="13622" itemId="0"/>
+  <permanentenchant id="724" name="+2 Intellect" spellId="0" itemId="0"/>
+  <permanentenchant id="744" name="+3 Intellect" spellId="13622" itemId="0"/>
+  <permanentenchant id="783" name="+10 Armor" spellId="7771" itemId="0"/>
+  <permanentenchant id="803" name="+9 Strength" spellId="20010" itemId="0"/>
+  <permanentenchant id="804" name="+10 Shadow Resistance" spellId="13522" itemId="0"/>
+  <permanentenchant id="805" name="+4 Weapon Damage" spellId="13943" itemId="0"/>
+  <permanentenchant id="823" name="+7 Stamina" spellId="13945" itemId="0"/>
+  <permanentenchant id="843" name="+30 Mana" spellId="13607" itemId="0"/>
+  <permanentenchant id="844" name="+2 Mining" spellId="13612" itemId="0"/>
+  <permanentenchant id="845" name="+2 Herbalism" spellId="13617" itemId="0"/>
+  <permanentenchant id="846" name="+0 Attack Power" spellId="0" itemId="0"/>
+  <permanentenchant id="847" name="+0 Agility" spellId="0" itemId="0"/>
+  <permanentenchant id="848" name="+30 Armor" spellId="13635" itemId="0"/>
+  <permanentenchant id="849" name="+3 Agility" spellId="13637" itemId="0"/>
+  <permanentenchant id="850" name="+35 Health" spellId="13640" itemId="0"/>
+  <permanentenchant id="851" name="+5 Spirit" spellId="13642" itemId="0"/>
+  <permanentenchant id="852" name="+5 Stamina" spellId="13648" itemId="0"/>
+  <permanentenchant id="853" name="+6 Beastslaying" spellId="13653" itemId="0"/>
+  <permanentenchant id="854" name="+2 Stamina" spellId="0" itemId="0"/>
+  <permanentenchant id="856" name="+5 Strength" spellId="13661" itemId="0"/>
+  <permanentenchant id="857" name="+50 Mana" spellId="13663" itemId="0"/>
+  <permanentenchant id="863" name="+10 Shield Block Rating" spellId="0" itemId="0"/>
+  <permanentenchant id="865" name="+5 Skinning" spellId="13698" itemId="0"/>
+  <permanentenchant id="866" name="+2 All Stats" spellId="13700" itemId="0"/>
+  <permanentenchant id="884" name="+50 Armor" spellId="13746" itemId="0"/>
+  <permanentenchant id="903" name="+19 Shadow Spell Damage" spellId="33999" itemId="0"/>
+  <permanentenchant id="904" name="+5 Agility" spellId="13815" itemId="0"/>
+  <permanentenchant id="905" name="+5 Intellect" spellId="13822" itemId="0"/>
+  <permanentenchant id="906" name="+5 Mining" spellId="13841" itemId="0"/>
+  <permanentenchant id="907" name="+7 Spirit" spellId="13846" itemId="0"/>
+  <permanentenchant id="908" name="+14 Agility" spellId="0" itemId="0"/>
+  <permanentenchant id="909" name="+5 Herbalism" spellId="13868" itemId="0"/>
+  <permanentenchant id="910" name="Increased Stealth" spellId="25083" itemId="0"/>
+  <permanentenchant id="911" name="Minor Speed Increase" spellId="13890" itemId="0"/>
+  <permanentenchant id="912" name="Demonslaying" spellId="13915" itemId="0"/>
+  <permanentenchant id="913" name="+65 Mana" spellId="13917" itemId="0"/>
+  <permanentenchant id="923" name="+5 Defense Rating" spellId="13931" itemId="0"/>
+  <permanentenchant id="924" name="+2 Defense Rating" spellId="7428" itemId="0"/>
+  <permanentenchant id="925" name="+6 Intellect" spellId="0" itemId="0"/>
+  <permanentenchant id="927" name="+7 Strength" spellId="13939" itemId="0"/>
+  <permanentenchant id="928" name="+3 All Stats" spellId="13941" itemId="0"/>
+  <permanentenchant id="929" name="+7 Stamina" spellId="13945" itemId="0"/>
+  <permanentenchant id="930" name="+2% Mount Speed" spellId="13947" itemId="0"/>
+  <permanentenchant id="931" name="+10 Haste Rating" spellId="22840" itemId="0"/>
+  <permanentenchant id="943" name="+3 Agility" spellId="13882" itemId="0"/>
+  <permanentenchant id="963" name="+7 Weapon Damage" spellId="13937" itemId="0"/>
+  <permanentenchant id="983" name="+16 Agility" spellId="44500" itemId="0"/>
+  <permanentenchant id="1071" name="+18 Stamina" spellId="50909" itemId="0"/>
+  <permanentenchant id="1075" name="+22 Stamina" spellId="44528" itemId="0"/>
+  <permanentenchant id="1099" name="+22 Agility" spellId="60663" itemId="0"/>
+  <permanentenchant id="1103" name="+26 Agility" spellId="44633" itemId="0"/>
+  <permanentenchant id="1119" name="+16 Intellect" spellId="44555" itemId="0"/>
+  <permanentenchant id="1128" name="+25 Intellect" spellId="60653" itemId="0"/>
+  <permanentenchant id="1144" name="+15 Spirit" spellId="33990" itemId="0"/>
+  <permanentenchant id="1147" name="+18 Spirit" spellId="44593" itemId="0"/>
+  <permanentenchant id="1257" name="+15 Arcane Resistance" spellId="34005" itemId="0"/>
+  <permanentenchant id="1354" name="+15 Haste Rating" spellId="60609" itemId="0"/>
+  <permanentenchant id="1400" name="+20 Nature Resistance" spellId="44494" itemId="0"/>
+  <permanentenchant id="1441" name="+15 Shadow Resistance" spellId="34006" itemId="0"/>
+  <permanentenchant id="1483" name="+150 Mana" spellId="0" itemId="0"/>
+  <permanentenchant id="1503" name="+100 HP" spellId="0" itemId="11642"/>
+  <permanentenchant id="1504" name="+125 Armor" spellId="0" itemId="0"/>
+  <permanentenchant id="1505" name="+20 Fire Resistance" spellId="35456" itemId="0"/>
+  <permanentenchant id="1506" name="+8 Strength" spellId="0" itemId="0"/>
+  <permanentenchant id="1507" name="+8 Stamina" spellId="32397" itemId="0"/>
+  <permanentenchant id="1508" name="+8 Agility" spellId="0" itemId="0"/>
+  <permanentenchant id="1509" name="+8 Intellect" spellId="0" itemId="0"/>
+  <permanentenchant id="1510" name="+8 Spirit" spellId="0" itemId="0"/>
+  <permanentenchant id="1593" name="+24 Attack Power" spellId="34002" itemId="0"/>
+  <permanentenchant id="1594" name="+26 Attack Power" spellId="35407" itemId="0"/>
+  <permanentenchant id="1597" name="Icewalker" spellId="60623" itemId="0"/>
+  <permanentenchant id="1600" name="+38 Attack Power" spellId="60616" itemId="0"/>
+  <permanentenchant id="1603" name="+44 Attack Power" spellId="60668" itemId="0"/>
+  <permanentenchant id="1606" name="+50 Attack Power" spellId="44575" itemId="0"/>
+  <permanentenchant id="1704" name="+12 Resilience Rating" spellId="44383" itemId="0"/>
+  <permanentenchant id="1843" name="Reinforced (+40 Armor)" spellId="0" itemId="15564"/>
+  <permanentenchant id="1883" name="+7 Intellect" spellId="20008" itemId="0"/>
+  <permanentenchant id="1884" name="+13 Intellect" spellId="0" itemId="0"/>
+  <permanentenchant id="1885" name="+9 Strength" spellId="20010" itemId="0"/>
+  <permanentenchant id="1886" name="+9 Stamina" spellId="20011" itemId="0"/>
+  <permanentenchant id="1887" name="+7 Agility" spellId="20012" itemId="0"/>
+  <permanentenchant id="1888" name="+5 All Resistances" spellId="22599" itemId="0"/>
+  <permanentenchant id="1889" name="+70 Armor" spellId="20015" itemId="0"/>
+  <permanentenchant id="1890" name="+9 Spirit" spellId="20009" itemId="0"/>
+  <permanentenchant id="1891" name="+4 All Stats" spellId="20025" itemId="0"/>
+  <permanentenchant id="1892" name="+100 Health" spellId="20026" itemId="0"/>
+  <permanentenchant id="1893" name="+100 Mana" spellId="20028" itemId="0"/>
+  <permanentenchant id="1894" name="Icy Weapon" spellId="20029" itemId="0"/>
+  <permanentenchant id="1896" name="+9 Weapon Damage" spellId="20030" itemId="0"/>
+  <permanentenchant id="1897" name="+5 Weapon Damage" spellId="20031" itemId="0"/>
+  <permanentenchant id="1898" name="Lifestealing" spellId="20032" itemId="0"/>
+  <permanentenchant id="1899" name="Unholy Weapon" spellId="20033" itemId="0"/>
+  <permanentenchant id="1900" name="Crusader" spellId="20034" itemId="0"/>
+  <permanentenchant id="1903" name="+9 Spirit" spellId="20016" itemId="0"/>
+  <permanentenchant id="1904" name="+9 Intellect" spellId="20036" itemId="0"/>
+  <permanentenchant id="1950" name="+15 Defense Rating" spellId="46594" itemId="0"/>
+  <permanentenchant id="1951" name="+16 Defense Rating" spellId="44591" itemId="0"/>
+  <permanentenchant id="1952" name="+20 Defense Rating" spellId="44489" itemId="0"/>
+  <permanentenchant id="1953" name="+22 Defense Rating" spellId="47766" itemId="0"/>
+  <permanentenchant id="2322" name="+19 Spell Power" spellId="33999" itemId="0"/>
+  <permanentenchant id="2326" name="+23 Spell Power" spellId="44635" itemId="0"/>
+  <permanentenchant id="2332" name="+30 Spell Power" spellId="60767" itemId="0"/>
+  <permanentenchant id="2343" name="+43 Spell Power" spellId="34010" itemId="0"/>
+  <permanentenchant id="2376" name="+6 mana every 5 sec." spellId="27913" itemId="0"/>
+  <permanentenchant id="2381" name="+8 mana every 5 sec." spellId="44509" itemId="0"/>
+  <permanentenchant id="2443" name="+7 Frost Spell Damage" spellId="21931" itemId="0"/>
+  <permanentenchant id="2463" name="+7 Fire Resistance" spellId="13657" itemId="38815"/>
+  <permanentenchant id="2483" name="+5 Fire Resistance" spellId="7861" itemId="38784"/>
+  <permanentenchant id="2484" name="+5 Frost Resistance" spellId="0" itemId="0"/>
+  <permanentenchant id="2485" name="+5 Arcane Resistance" spellId="0" itemId="0"/>
+  <permanentenchant id="2486" name="+5 Nature Resistance" spellId="0" itemId="0"/>
+  <permanentenchant id="2487" name="+5 Shadow Resistance" spellId="0" itemId="0"/>
+  <permanentenchant id="2488" name="+5 All Resistances" spellId="20014" itemId="16216"/>
+  <permanentenchant id="2503" name="+5 Defense Rating" spellId="13931" itemId="11223"/>
+  <permanentenchant id="2504" name="+30 Spell Power" spellId="22749" itemId="18259"/>
+  <permanentenchant id="2505" name="+29 Spell Power" spellId="22750" itemId="18260"/>
+  
+  <permanentenchant id="2523" name="+30 Ranged Hit Rating" spellId="22779" itemId="18283"/>
+  <permanentenchant id="2543" name="+8 Agility" spellId="0" itemId="0"/>
+  <permanentenchant id="2544" name="+8 Spell Power" spellId="22844" itemId="18330"/>
+  <permanentenchant id="2545" name="+11 Stamina" spellId="0" itemId="0"/>
+  <permanentenchant id="2563" name="+15 Strength" spellId="33995" itemId="38933"/>
+  <permanentenchant id="2564" name="+15 Agility" spellId="25080" itemId="20731"/>
+  <permanentenchant id="2565" name="Mana Regen 4 per 5 sec." spellId="23801" itemId="19446"/>
+  <permanentenchant id="2566" name="+13 Spell Power" spellId="0" itemId="0"/>
+  <permanentenchant id="2567" name="+20 Spirit" spellId="23803" itemId="19448"/>
+  <permanentenchant id="2568" name="+22 Intellect" spellId="23804" itemId="19449"/>
+  <permanentenchant id="2583" name="+10 Defense Rating/+10 Stamina/+15 Block Value" spellId="0" itemId="0"/>
+  <permanentenchant id="2584" name="+10 Defense +10 Stamina and +12 Spell Power" spellId="0" itemId="0"/>
+  <permanentenchant id="2585" name="+28 Attack Power/+12 Dodge Rating" spellId="0" itemId="0"/>
+  <permanentenchant id="2586" name="+24 Ranged Attack Power/+10 Stamina/+10 Hit Rating" spellId="0" itemId="0"/>
+  <permanentenchant id="2587" name="+13 Spell Power and +15 Intellect" spellId="0" itemId="0"/>
+  <permanentenchant id="2588" name="+18 Spell Power and +8 Hit Rating" spellId="0" itemId="0"/>
+  <permanentenchant id="2589" name="+18 Spell Power and +10 Stamina" spellId="0" itemId="0"/>
+  <permanentenchant id="2590" name="+13 Spell Power +10 Stamina and +4 Mana every 5 seconds" spellId="0" itemId="0"/>
+  <permanentenchant id="2591" name="+10 Intellect +10 Stamina +12 Spell Power" spellId="0" itemId="0"/>
+  <permanentenchant id="2603" name="Eternium Line" spellId="0" itemId="19971"/>
+  <permanentenchant id="2604" name="+18 Spell Power" spellId="0" itemId="0"/>
+  <permanentenchant id="2605" name="+18 Spell Power" spellId="0" itemId="0"/>
+  <permanentenchant id="2606" name="+30 Attack Power" spellId="0" itemId="0"/>
+  <permanentenchant id="2613" name="+2% Threat" spellId="25072" itemId="33153"/>
+  <permanentenchant id="2614" name="+20 Shadow Spell Damage" spellId="25073" itemId="20727"/>
+  <permanentenchant id="2615" name="+20 Frost Spell Damage" spellId="25074" itemId="20728"/>
+  <permanentenchant id="2616" name="+20 Fire Spell Damage" spellId="25078" itemId="20729"/>
+  <permanentenchant id="2617" name="+16 Spell Power" spellId="25079" itemId="20730"/>
+  <permanentenchant id="2619" name="+15 Fire Resistance" spellId="25081" itemId="20732"/>
+  <permanentenchant id="2620" name="+15 Nature Resistance" spellId="25082" itemId="20733"/>
+  <permanentenchant id="2621" name="Subtlety" spellId="25084" itemId="33150"/>
+  <permanentenchant id="2622" name="+12 Dodge Rating" spellId="22846" itemId="18331"/>
+  <permanentenchant id="2646" name="+25 Agility" spellId="27837" itemId="22392"/>
+  <permanentenchant id="2647" name="+12 Strength" spellId="27899" itemId="38897"/>
+  <permanentenchant id="2648" name="+12 Defense Rating" spellId="47051" itemId="35756"/>
+  <permanentenchant id="2649" name="+12 Stamina" spellId="50906" itemId="38375"/>
+  <permanentenchant id="2650" name="+15 Spell Power" spellId="35405" itemId="28881"/>
+  <permanentenchant id="2653" name="+18 Block Value" spellId="27944" itemId="38904"/>
+  <permanentenchant id="2654" name="+12 Intellect" spellId="34001" itemId="38937"/>
+  <permanentenchant id="2655" name="+15 Shield Block Rating" spellId="27946" itemId="22540"/>
+  <permanentenchant id="2656" name="Vitality" spellId="27948" itemId="22542"/>
+  <permanentenchant id="2657" name="+12 Agility" spellId="34004" itemId="38940"/>
+  <permanentenchant id="2658" name="+10 Hit Rating and +10 Critical Strike Rating" spellId="27954" itemId="22545"/>
+  <permanentenchant id="2659" name="+150 Health" spellId="27957" itemId="38911"/>
+  <permanentenchant id="2661" name="+6 All Stats" spellId="27960" itemId="22547"/>
+  <permanentenchant id="2662" name="+120 Armor" spellId="27961" itemId="38914"/>
+  <permanentenchant id="2664" name="+7 Resist All" spellId="0" itemId="29187"/>
+  <permanentenchant id="2666" name="+30 Intellect" spellId="27968" itemId="22551"/>
+  <permanentenchant id="2667" name="Savagery" spellId="27971" itemId="22554"/>
+  <permanentenchant id="2668" name="+20 Strength" spellId="27972" itemId="22553"/>
+  <permanentenchant id="2669" name="+40 Spell Power" spellId="27975" itemId="22555"/>
+  <permanentenchant id="2670" name="+35 Agility" spellId="27977" itemId="22556"/>
+  <permanentenchant id="2671" name="Sunfire" spellId="27981" itemId="22560"/>
+  <permanentenchant id="2672" name="Soulfrost" spellId="27982" itemId="22561"/>
+    <permanentenchant id="2673" name="Mongoose" spellId="27984" itemId="22559"/>
+  <permanentenchant id="2674" name="Spellsurge" spellId="28003" itemId="22558"/>
+  <permanentenchant id="2675" name="Battlemaster" spellId="28004" itemId="22557"/>
+  <permanentenchant id="2679" name="6 Mana per 5 Sec." spellId="27913" itemId="22532"/>
+  <permanentenchant id="2682" name="+10 Frost Resistance" spellId="28163" itemId="22636"/>
+  <permanentenchant id="2683" name="+10 Shadow Resistance" spellId="13522" itemId="11098"/>
+  <permanentenchant id="2714" name="Felsteel Spike (26-38)" spellId="29455" itemId="29454"/>
+  <permanentenchant id="2715" name="+16 Spell Power and 5 Mana every 5 seconds" spellId="0" itemId="23547"/>
+  <permanentenchant id="2716" name="+16 Stamina and +100 Armor" spellId="0" itemId="23549"/>
+  <permanentenchant id="2717" name="+26 Attack Power and +14 Critical Strike Rating" spellId="29483" itemId="23548"/>
+  <permanentenchant id="2721" name="+15 Spell Power and +14 Critical Strike Rating" spellId="0" itemId="23545"/>
+  <permanentenchant id="2722" name="Scope (+10 Damage)" spellId="30250" itemId="23764"/>
+  <permanentenchant id="2723" name="Scope (+12 Damage)" spellId="30252" itemId="23765"/>
+  <permanentenchant id="2724" name="Scope (+28 Critical Strike Rating)" spellId="30258" itemId="30255"/>
+  <permanentenchant id="2745" name="+25 Spell Power and +15 Stamina" spellId="31369" itemId="24275"/>
+  <permanentenchant id="2746" name="+35 Spell Power and +20 Stamina" spellId="31370" itemId="24276"/>
+  <permanentenchant id="2747" name="+25 Spell Power and +15 Stamina" spellId="31369" itemId="24275"/>
+  <permanentenchant id="2748" name="+35 Spell Power and +20 Stamina" spellId="31370" itemId="24276"/>
+  <permanentenchant id="2792" name="+8 Stamina" spellId="32397" itemId="25650"/>
+  <permanentenchant id="2793" name="+21 Strength" spellId="0" itemId="0"/>
+  <permanentenchant id="2794" name="+3 Mana restored per 5 seconds" spellId="32399" itemId="25652"/>
+  <permanentenchant id="2841" name="+10 Stamina" spellId="44968" itemId="34330"/>
+  <permanentenchant id="2928" name="+12 Spell Power" spellId="27924" itemId="22536"/>
+  <permanentenchant id="2929" name="+2 Weapon Damage" spellId="7745" itemId="38772"/>
+  <permanentenchant id="2930" name="+12 Spell Power" spellId="27926" itemId="22537"/>
+  <permanentenchant id="2931" name="+4 All Stats" spellId="20025" itemId="16253"/>
+  <permanentenchant id="2933" name="+15 Resilience Rating" spellId="33992" itemId="28270"/>
+  <permanentenchant id="2934" name="+10 Critical Strike Rating" spellId="33993" itemId="38931"/>
+  <permanentenchant id="2935" name="+15 Hit Rating" spellId="33994" itemId="28271"/>
+  <permanentenchant id="2937" name="+20 Spell Power" spellId="33997" itemId="28272"/>
+  <permanentenchant id="2938" name="+20 Spell Penetration" spellId="34003" itemId="28274"/>
+  <permanentenchant id="2939" name="Minor Speed and +6 Agility" spellId="34007" itemId="28279"/>
+  <permanentenchant id="2940" name="Minor Speed and +9 Stamina" spellId="34008" itemId="28280"/>
+  <permanentenchant id="2977" name="+13 Dodge Rating" spellId="35355" itemId="28882"/>
+  <permanentenchant id="2978" name="+15 Dodge Rating and +10 Defense Rating" spellId="0" itemId="44132"/>
+  <permanentenchant id="2979" name="+15 Spell Power" spellId="35405" itemId="28881"/>
+  <permanentenchant id="2980" name="+18 Spell Power and +4 Mana every 5 seconds" spellId="0" itemId="44130"/>
+  <permanentenchant id="2981" name="+15 Spell Power" spellId="35405" itemId="28881"/>
+  <permanentenchant id="2982" name="+18 Spell Power and +10 Critical Strike Rating" spellId="0" itemId="28886"/>
+  <permanentenchant id="2983" name="+26 Attack Power" spellId="35407" itemId="28885"/>
+  <permanentenchant id="2984" name="+8 Shadow Resist" spellId="35415" itemId="29483"/>
+  <permanentenchant id="2986" name="+30 Attack Power and +10 Critical Strike Rating" spellId="0" itemId="28888"/>
+  <permanentenchant id="2987" name="+8 Frost Resist" spellId="13933" itemId="11224"/>
+  <permanentenchant id="2988" name="+48 Stamina" spellId="0" itemId="0"/>
+  <permanentenchant id="2989" name="+8 Arcane Resist" spellId="35420" itemId="29488"/>
+  <permanentenchant id="2990" name="+13 Defense Rating" spellId="35432" itemId="28908"/>
+  <permanentenchant id="2991" name="+15 Defense Rating and +10 Dodge Rating" spellId="0" itemId="28911"/>
+  <permanentenchant id="2992" name="+5 Mana Regen" spellId="7443" itemId="6342"/>
+  <permanentenchant id="2993" name="+12 Spell Power and 6 Mana every 5 seconds" spellId="0" itemId="28912"/>
+  <permanentenchant id="2994" name="+13 Critical Strike Rating" spellId="35438" itemId="28907"/>
+  <permanentenchant id="2995" name="+15 Critical Strike Rating and +12 Spell Power" spellId="0" itemId="28909"/>
+  <permanentenchant id="2996" name="+13 Critical Strike Rating" spellId="35438" itemId="28907"/>
+  <permanentenchant id="2997" name="+15 Critical Strike Rating and +20 Attack Power" spellId="0" itemId="28910"/>
+  <permanentenchant id="2998" name="+7 All Resistances" spellId="27962" itemId="22548"/>
+  <permanentenchant id="2999" name="+16 Defense Rating and +17 Dodge Rating" spellId="0" itemId="29186"/>
+  <permanentenchant id="3001" name="+19 Spell Power and +7 Mana every 5 seconds" spellId="35445" itemId="29189"/>
+  <permanentenchant id="3002" name="+22 Spell Power and +14 Hit Rating" spellId="0" itemId="29191"/>
+  <permanentenchant id="3003" name="+34 Attack Power and +16 Hit Rating" spellId="0" itemId="29192"/>
+  <permanentenchant id="3004" name="+18 Stamina and +20 Resilience Rating" spellId="35453" itemId="29193"/>
+  <permanentenchant id="3005" name="+20 Nature Resistance" spellId="44494" itemId="37333"/>
+  <permanentenchant id="3006" name="+20 Arcane Resistance" spellId="44596" itemId="37330"/>
+  <permanentenchant id="3007" name="+20 Fire Resistance" spellId="35456" itemId="29196"/>
+  <permanentenchant id="3008" name="+20 Frost Resistance" spellId="44483" itemId="37332"/>
+  <permanentenchant id="3009" name="+20 Shadow Resistance" spellId="44590" itemId="37334"/>
+  <permanentenchant id="3010" name="+40 Attack Power and +10 Critical Strike Rating" spellId="35488" itemId="29533"/>
+  <permanentenchant id="3011" name="+30 Stamina and +10 Agility" spellId="35489" itemId="29534"/>
+  <permanentenchant id="3012" name="+50 Attack Power and +12 Critical Strike Rating" spellId="35490" itemId="29535"/>
+  <permanentenchant id="3013" name="+40 Stamina and +12 Agility" spellId="35495" itemId="29536"/>
+  <permanentenchant id="3096" name="+17 Strength and +16 Intellect" spellId="0" itemId="30846"/>
+  <permanentenchant id="3150" name="+6 mana every 5 sec." spellId="27913" itemId="22532"/>
+  <permanentenchant id="3222" name="+20 Agility" spellId="44529" itemId="38967"/>
+  <permanentenchant id="3223" name="Adamantite Weapon Chain" spellId="42687" itemId="33185"/>
+  <permanentenchant id="3225" name="Executioner" spellId="42974" itemId="33307"/>
+  <permanentenchant id="3229" name="+12 Resilience Rating" spellId="44383" itemId="38949"/>
+  <permanentenchant id="3230" name="+20 Frost Resistance" spellId="44483" itemId="37332"/>
+  <permanentenchant id="3231" name="+15 Expertise Rating" spellId="44598" itemId="38984"/>
+  <permanentenchant id="3232" name="Tuskar's Vitality" spellId="47901" itemId="44491"/>
+  <permanentenchant id="3233" name="+250 Mana" spellId="27958" itemId="38912"/>
+  <permanentenchant id="3234" name="+20 Hit Rating" spellId="44488" itemId="38953"/>
+  <permanentenchant id="3236" name="+200 Health" spellId="44492" itemId="38955"/>
+  <permanentenchant id="3238" name="Gatherer" spellId="44506" itemId="38960"/>
+  <permanentenchant id="3239" name="Icebreaker Weapon" spellId="44524" itemId="37344"/>
+  <permanentenchant id="3241" name="Lifeward" spellId="44576" itemId="44494"/>
+  <permanentenchant id="3243" name="+35 Spell Penetration" spellId="44582" itemId="38973"/>
+  <permanentenchant id="3244" name="Greater Vitality" spellId="44584" itemId="38974"/>
+  <permanentenchant id="3246" name="+28 Spell Power" spellId="44592" itemId="38979"/>
+  <permanentenchant id="3247" name="Titanium Weapon Chain" spellId="55836" itemId="41976"/>
+  <permanentenchant id="3252" name="+8 All Stats" spellId="44623" itemId="38989"/>
+  <permanentenchant id="3253" name="+2% Threat and 10 Parry Rating" spellId="44625" itemId="44485"/>
+  <permanentenchant id="3260" name="+240 Armor" spellId="0" itemId="34207"/>
+  <permanentenchant id="3269" name="Truesilver Line" spellId="0" itemId="34836"/>
+  <permanentenchant id="3273" name="Deathfrost" spellId="46578" itemId="35498"/>
+  <permanentenchant id="3294" name="+225 Armor" spellId="47672" itemId="44471"/>
+  <permanentenchant id="3296" name="Wisdom" spellId="47899" itemId="44488"/>
+  <permanentenchant id="3297" name="+275 Health" spellId="47900" itemId="39005"/>
+  <permanentenchant id="3325" name="+45 Stamina and +15 Agility" spellId="0" itemId="38371"/>
+  <permanentenchant id="3326" name="+55 Attack Power and +15 Critical Strike Rating" spellId="50902" itemId="38372"/>
+  <permanentenchant id="3327" name="+75 Attack Power and +22 Critical Strike Rating" spellId="60582" itemId="38374"/>
+  <permanentenchant id="3328" name="+75 Attack Power and +22 Critical Strike Rating" spellId="60582" itemId="38374"/>
+  <permanentenchant id="3329" name="+12 Stamina" spellId="50906" itemId="38375"/>
+  <permanentenchant id="3330" name="+18 Stamina" spellId="50909" itemId="38376"/>
+  <permanentenchant id="3365" name="Rune of Swordshattering" spellId="53323" itemId="0"/>
+  <permanentenchant id="3366" name="Rune of Lichbane" spellId="53331" itemId="0"/>
+  <permanentenchant id="3367" name="Rune of Spellshattering" spellId="53342" itemId="0"/>
+  <permanentenchant id="3368" name="Rune of the Fallen Crusader" spellId="53344" itemId="0"/>
+  <permanentenchant id="3369" name="Rune of Cinderglacier" spellId="53341" itemId="0"/>
+  <permanentenchant id="3370" name="Rune of Razorice" spellId="53343" itemId="0"/>
+  <permanentenchant id="3594" name="Rune of Swordbreaking" spellId="54446" itemId="0"/>
+  <permanentenchant id="3595" name="Rune of Spellbreaking" spellId="54447" itemId="0"/>
+  <permanentenchant id="3599" name="Electromagnetic Pulse Generator" spellId="54736" itemId="0"/>
+  <permanentenchant id="3601" name="Belt-Clipped Spynoculars" spellId="54793" itemId="0"/>
+  <permanentenchant id="3603" name="Hand-Mounted Pyro Rocket" spellId="54998" itemId="0"/>
+  <permanentenchant id="3604" name="Hyperspeed Accelerators" spellId="54999" itemId="0"/>
+  <permanentenchant id="3605" name="Flexweave Underlay" spellId="55002" itemId="0"/>
+  <permanentenchant id="3606" name="Nitro Boosts" spellId="55016" itemId="0"/>
+  <permanentenchant id="3607" name="+40 Ranged Haste Rating" spellId="0" itemId="0"/>
+  <permanentenchant id="3608" name="+40 Ranged Critical Strike" spellId="55135" itemId="41167"/>
+  <permanentenchant id="3718" name="+35 Spell Power and +12 Spirit" spellId="55630" itemId="41601"/>
+  <permanentenchant id="3719" name="+50 Spell Power and +20 Spirit" spellId="55631" itemId="41602"/>
+  <permanentenchant id="3720" name="+35 Spell Power and +20 Stamina" spellId="31370" itemId="24276"/>
+  <permanentenchant id="3721" name="+50 Spell Power and +30 Stamina" spellId="55634" itemId="41604"/>
+  <permanentenchant id="3722" name="Lightweave Embroidery" spellId="55642" itemId="0"/>
+  <permanentenchant id="3728" name="Darkglow Embroidery" spellId="55769" itemId="0"/>
+  <permanentenchant id="3730" name="Swordguard Embroidery" spellId="55777" itemId="0"/>
+  <permanentenchant id="3731" name="Titanium Weapon Chain" spellId="55836" itemId="41976"/>
+  <permanentenchant id="3748" name="Titanium Spike (45-67)" spellId="56355" itemId="0"/>
+  <permanentenchant id="3754" name="+24 Attack Power/+10 Stamina/+10 Hit Rating" spellId="0" itemId="0"/>
+  <permanentenchant id="3756" name="+114 Attack Power" spellId="57683" itemId="0"/>
+  <permanentenchant id="3757" name="+90 Stamina" spellId="57690" itemId="0"/>
+  <permanentenchant id="3758" name="+67 Spell Power" spellId="57691" itemId="0"/>
+  <permanentenchant id="3760" name="+60 Frost Resistance" spellId="0" itemId="0"/>
+  <permanentenchant id="3788" name="Accuracy" spellId="59619" itemId="44496"/>
+  <permanentenchant id="3789" name="Berserking" spellId="59621" itemId="44492"/>
+  <permanentenchant id="3790" name="+63 Spell Power" spellId="60714" itemId="44487"/>
+  <permanentenchant id="3791" name="+24 Stamina" spellId="59636" itemId="0"/>
+  <permanentenchant id="3793" name="+40 Attack Power and +15 Resilience Rating" spellId="0" itemId="44067"/>
+  <permanentenchant id="3794" name="+23 Spell Power and +15 Resilience Rating" spellId="0" itemId="44068"/>
+  <permanentenchant id="3795" name="+50 Attack Power and +20 Resilience Rating" spellId="0" itemId="44069"/>
+  <permanentenchant id="3797" name="+29 Spell Power and +20 Resilience Rating" spellId="0" itemId="44075"/>
+  <permanentenchant id="3806" name="+18 Spell Power and +10 Critical Strike Rating" spellId="0" itemId="28886"/>
+  <permanentenchant id="3807" name="+18 Spell Power and +4 Mana/5 seconds" spellId="0" itemId="28887"/>
+  <permanentenchant id="3808" name="+40 Attack Power and +15 Crit Rating" spellId="0" itemId="44133"/>
+  <permanentenchant id="3809" name="+24 Spell Power and +6 Mana/5 seconds" spellId="0" itemId="44134"/>
+  <permanentenchant id="3810" name="+24 Spell Power and +15 Critical Strike Rating" spellId="0" itemId="0"/>
+  <permanentenchant id="3811" name="+20 Dodge Rating and +15 Defense Rating" spellId="0" itemId="44136"/>
+  <permanentenchant id="3812" name="+25 Frost Resistance and 30 Stamina" spellId="0" itemId="44137"/>
+  <permanentenchant id="3813" name="+25 Nature Resistance and 30 Stamina" spellId="0" itemId="44138"/>
+  <permanentenchant id="3814" name="+25 Shadow Resistance and 30 Stamina" spellId="0" itemId="44139"/>
+  <permanentenchant id="3815" name="+25 Arcane Resistance and 30 Stamina" spellId="0" itemId="44140"/>
+  <permanentenchant id="3816" name="+25 Fire Resistance and 30 Stamina" spellId="0" itemId="44141"/>
+  <permanentenchant id="3817" name="+50 Attack Power and +20 Critical Strike Rating" spellId="0" itemId="44149"/>
+  <permanentenchant id="3818" name="+37 Stamina and +20 Defense" spellId="0" itemId="44150"/>
+  <permanentenchant id="3819" name="+30 Spell Power and 8 mana per 5 seconds." spellId="0" itemId="44152"/>
+  <permanentenchant id="3820" name="+30 Spell Power and 20 Critical strike rating." spellId="0" itemId="44159"/>
+  <permanentenchant id="3822" name="+55 Stamina and +22 Agility" spellId="60581" itemId="38373"/>
+  <permanentenchant id="3823" name="+75 Attack Power and +22 Critical Strike Rating" spellId="60582" itemId="0"/>
+  <permanentenchant id="3824" name="+24 Attack Power" spellId="34002" itemId="38938"/>
+  <permanentenchant id="3825" name="+15 Haste Rating" spellId="60609" itemId="44456"/>
+  <permanentenchant id="3826" name="Icewalker" spellId="60623" itemId="38986"/>
+  <permanentenchant id="3827" name="+110 Attack Power" spellId="60691" itemId="44483"/>
+  <permanentenchant id="3828" name="+85 Attack Power" spellId="44630" itemId="38992"/>
+  <permanentenchant id="3829" name="+35 Attack Power" spellId="44513" itemId="38964"/>
+  <permanentenchant id="3830" name="+50 Spell Power" spellId="44629" itemId="38991"/>
+  <permanentenchant id="3831" name="+23 Haste Rating" spellId="47898" itemId="44472"/>
+  <permanentenchant id="3832" name="+10 All Stats" spellId="60692" itemId="44489"/>
+  <permanentenchant id="3833" name="+65 Attack Power" spellId="60707" itemId="44486"/>
+  <permanentenchant id="3834" name="+63 Spell Power" spellId="60714" itemId="44487"/>
+  <permanentenchant id="3835" name="+104 Attack Power and +15 Crit Rating" spellId="0" itemId="0"/>
+  <permanentenchant id="3836" name="+61 Spell Power and +6 Mana/5 seconds" spellId="0" itemId="0"/>
+  <permanentenchant id="3837" name="+52 Dodge Rating and +15 Defense Rating" spellId="0" itemId="0"/>
+  <permanentenchant id="3838" name="+61 Spell Power and +15 Crit Rating" spellId="0" itemId="0"/>
+  <permanentenchant id="3839" name="+32 Attack Power" spellId="60763" itemId="44490"/>
+  <permanentenchant id="3840" name="+19 Spell Power" spellId="33999" itemId="28273"/>
+  <permanentenchant id="3842" name="+37 Stamina and +20 Defense" spellId="0" itemId="44150"/>
+  <permanentenchant id="3843" name="Scope (+15 Damage)" spellId="61468" itemId="44739"/>
+  <permanentenchant id="3844" name="+45 Spirit" spellId="44510" itemId="38963"/>
+  <permanentenchant id="3845" name="+50 Attack Power" spellId="44575" itemId="44484"/>
+</permanentenchants>

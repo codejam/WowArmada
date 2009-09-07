@@ -1,0 +1,158 @@
+.waa_summary_main {
+  padding: 3px;
+  border: 1px outset silver;
+}
+ 
+.waa_summary_main > img { border: 0px; }
+
+.waa_summary_main table {
+  width: 100%;
+  padding: 0px;
+  border: 0px;
+  border-spacing: 1px;
+  vertical-align: top;
+  text-align: left;
+}
+
+/* Header */
+.waa_summary_header {
+	text-align: left;	
+	vertical-align: top;
+}
+
+/* Avatar */
+.waa_summary_avatar {
+  width: 64px;
+  padding: 5px;
+}
+
+/* Achievements Points */
+.waa_summary_ach {
+  width: 64px;
+  color: #ffd517;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Char info */
+.waa_summary_char_info {
+  /*width: 100%;*/
+  vertical-align: top;
+}
+
+.waa_summary_char_name {
+  color: #DDDDDD;
+  font-weight: bold;
+  display: block;
+}
+
+.waa_summary_char_guild {
+  color: #ffd517;
+  font-weight: bold;
+  display: block;
+}
+
+.waa_summary_char_stuff {
+  color: white;
+  display: block;
+}
+
+/* Talents */
+.waa_summary_talents {
+	text-align: left;
+}
+
+.waa_summary_talents img {
+	vertical-align: middle;
+	width: 20px;
+	height: 20px;
+	clear: none;
+}
+
+.waa_summary_talent_spec {
+  color: #ffd517;
+  display: none;
+}
+
+.waa_summary_talent_trees {
+  padding-top: 0.5em;
+  color: white;
+  display: inline-block;
+}
+
+.waa_summary_stat_health {
+	background-color: #00BF00;
+	color: white;
+	border: 1px grey solid;
+}
+
+.waa_summary_stat_m {
+	background-color: #0070DD;
+	color: white;
+	border: 1px grey solid;
+}
+
+.waa_summary_stat_r {
+	background-color: #FF0040;
+	color: white;
+	border: 1px grey solid;
+}
+
+.waa_summary_stat_e {
+	background-color: #FFBF00;
+	color: white;
+	border: 1px grey solid;
+}
+
+.waa_summary_stat_p {
+	background-color: #5CB3FF;
+	color: white;
+	border: 1px grey solid;
+}
+
+.waa_summary_stat_name {
+	color: #00FF00;	
+}
+
+.waa_summary_stat_block {
+	color: #ffd517;
+}
+
+.waa_summary_stat_value {
+	color: white;
+}
+
+/* Professions */
+.waa_summary_professions {
+  width: 100%;
+  padding: 0px;
+  border: 0px;
+  border-spacing: 1px;
+  vertical-align: top;
+  text-align: left;
+}
+
+.waa_summary_profession_name {
+	color: #DDDDDD;
+	font-weight: bold;
+}
+
+.waa_summary_profession_name img {
+	vertical-align: middle;
+}
+
+.waa_summary_profession_skill {
+	color: white;
+	padding-left: 5px;
+}
+
+.waa_summary_last_update {
+	text-align: right;
+	font-size: xx-small;
+}
+	
+.waa_summary_footer {
+	font-size: xx-small;
+	color: #CCCCCC;
+	display: none;
+}
